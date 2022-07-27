@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=FAB0B2&height=200&section=header&text=Hello%20everyone&fontSize=60&fontColor=ffffff)
+
 ### Introduce
 
 - 새로운 기술과 언어를 배우는 것을 좋아합니다.
@@ -24,3 +26,15 @@
 **Frontend** 
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=black">  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+</br>
+
+### Solved.ac
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmfrl613)](https://solved.ac/tmfrl613/)
+
+</br>
+
+### GitHub Stats
+
+![1seul357's GitHub stats](https://github-readme-stats.vercel.app/api?username=1seul357&show_icons=true&theme=radical)
