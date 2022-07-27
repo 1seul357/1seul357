@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FAB0B2&height=200&section=header&text=Hello%20everyone&fontSize=60&fontColor=ffffff)
 
-### Introduce
+## Introduce
 
 - 새로운 기술과 언어를 배우는 것을 좋아합니다.
 - 클린 코드를 지향합니다. 코드 리팩토링은 필수로 진행합니다.
@@ -10,13 +10,13 @@
 
 </br>
 
-### Portfolio
+## Portfolio
 
 📰<a href="https://www.notion.so/b623cd6cab9042b883cca3369a1873c9">포트폴리오</a> 자세히보기
 
 </br>
 
-### Skills
+## Skills
 
 **Backend** 
 
@@ -29,12 +29,12 @@
 
 </br>
 
-### Solved.ac
+## Solved.ac
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmfrl613)](https://solved.ac/tmfrl613/)
 
 </br>
 
-### GitHub Stats
+## GitHub Stats
 
 ![1seul357's GitHub stats](https://github-readme-stats.vercel.app/api?username=1seul357&show_icons=true&theme=radical)
