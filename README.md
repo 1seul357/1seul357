@@ -10,12 +10,6 @@
 
 </br>
 
-## Portfolio
-
-📰<a href="https://www.notion.so/b623cd6cab9042b883cca3369a1873c9">포트폴리오</a> 자세히보기
-
-</br>
-
 ## Skills
 
 **Backend** 
