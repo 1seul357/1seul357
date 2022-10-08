@@ -31,7 +31,7 @@
 ## Most Used Languages
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1seul357&layout=compact&hide=Java)](https://github.com/1seul357/github-readme-stats)">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1seul357&hide=java&layout=compact">
 </div>
 
 </br>
