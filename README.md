@@ -1,13 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FAB0B2&height=250&section=header&text=Frontend%20Developer&fontSize=60&fontColor=ffffff)
 
-## Introduce
-
-- 새로운 기술과 언어를 배우는 것을 좋아합니다.
-- 클린 코드를 지향합니다. 코드 리팩토링은 필수로 진행합니다.
-- 팀원들과 코드 리뷰하는 것을 좋아합니다.
-- 피그마를 통해 디자인한 경험이 있습니다.
-- `Notion`, `Jira`, `GitHub` 등을 통해 협업합니다.
-
 </br>
 
 </br>
